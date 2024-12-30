@@ -1,3 +1,10 @@
+# Proje Özeti: 
+Breast Cancer Classification with Deep Learning ve Makine Öğrenimi Modelleri Performans Değerlendirmesi
+Bu proje, meme kanseri sınıflandırma problemini çözmek amacıyla farklı makine öğrenimi modellerinin performansını analiz etmekte ve derin öğrenme yaklaşımıyla elde edilen sonuçları değerlendirmektedir. 
+İki veri setiyle çalışılmıştır: Özellik seçimi yapılmış bir set (İlk Set) ve tüm özelliklerin kullanıldığı bir set (İkinci Set).
+Proje, meme kanseri sınıflandırmasında derin öğrenme ve geleneksel makine öğrenimi yöntemlerinin etkinliğini kıyaslamak için önemli bir çalışma ortaya koymaktadır.
+
+
 # Model Performans Değerlendirmesi
 
 Bu belge, çeşitli makine öğrenimi modellerinin performans değerlendirmesini ve Breast Cancer Classification with Deep Learning modeli üzerine yapılan analizleri içermektedir.
