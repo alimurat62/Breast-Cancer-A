@@ -3,8 +3,8 @@
 Bu belge, çeşitli makine öğrenimi modellerinin performans değerlendirmesini ve Breast Cancer Classification with Deep Learning modeli üzerine yapılan analizleri içermektedir.
 
 ## Genel Performans
-- **İLK SET = Tum_Ozellikler_Makine_Öğrenmesi
-- **İKİNCİ SET = Ozellik_Secme_Makine_Öğrenmesi
+- **İLK SET = Ozellik_Secme_Makine_Öğrenmesi
+- **İKİNCİ SET = Tum_Ozellikler_Makine_Öğrenmesi
 
 ### Lojistik Regresyon (log):
 - **İlk set:** %96.49 doğruluk, AUC = 0.995
